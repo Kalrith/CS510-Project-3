@@ -15,9 +15,9 @@ This project can show an AST structure created from labeled bracket notation
 Below are some screenshots showcasing the functionality of the project:
 
 ### AST Examples
-![AST Example 1](Screenshots/Capture.PNG)
+![AST Example 1](MyAST/Screenshots/Capture.PNG)
 
-![AST Example 2](Screenshots/image-1746226439746.png)
+![AST Example 2](MyAST/Screenshots/image-1746226439746.png)
 
 ## How To Use
 
