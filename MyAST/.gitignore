@@ -1,0 +1,31 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Dependency directories
+packages/
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Others
+*.lock.json
+*.pdb
+*.cache
+*.tmp
